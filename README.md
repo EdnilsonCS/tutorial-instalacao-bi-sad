@@ -2,6 +2,7 @@
 <b> Um pequendo tutorial (mais detalhado) de como instalar e usar o <i>Power BI</i> e testar a ferramenta</b>
 
 ## How install the Power BI?
+![](https://www.multimidiaearte.com.br/wp-content/uploads/2019/03/power-BI-1030x579.png)
  * Passo 1 <br/>
    Vamos lá,
    primeiro entre no [site](https://powerbi.microsoft.com/pt-br/).
