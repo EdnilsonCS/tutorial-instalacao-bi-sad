@@ -15,7 +15,7 @@
  * Passo 3 <br/>
    Espere baixar (vai depender da velocidade da sua internet)
  * Passo 4 <br/>
-   Depois, clique em <b>Iniciar<b/>
+   Depois, clique em <b>Iniciar</b>
   
   ## How install the MySql SGBD?
 ![](https://www.hospedagemsegura.com.br/wp-content/uploads/2016/03/MySQL.jpg)
@@ -26,7 +26,7 @@
  * Passo 2 <br/>
    Depois baixe a verção Community para windows 
    com o nome mysql-installer-community-_._._._.msi (os traços é por causa da mudança de verção).
-   você vai ser redirecionado para outra págna, clique apenas em <b>No thanks, just start my download<b/>. 
+   você vai ser redirecionado para outra págna, clique apenas em <b>No thanks, just start my download</b>. 
  * Passo 3 <br/>
    Espere concluir o dawload.
  * Passo 4 <br/>
