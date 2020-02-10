@@ -18,3 +18,4 @@
    Depois, clique em <b>Iniciar<b/>
   
   ## How install the MySql Date base?
+![](https://www.hospedagemsegura.com.br/wp-content/uploads/2016/03/MySQL.jpg)
