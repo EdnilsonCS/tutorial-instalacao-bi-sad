@@ -61,4 +61,4 @@
    Depois volte no arquivo zip e clique no arquivo sakila-schema.sql
    Copie o código e cole na pagna que esta conectada ao SGBD
    e clique no raio.
- * ok, o banco de dados com os dados foi iniciado <br/>
+ *  OK BASE DE DADOS INICIALIZADA
