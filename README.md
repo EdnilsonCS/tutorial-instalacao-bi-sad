@@ -45,4 +45,20 @@
    depois next e finalmente finish
  * OK MY SQL INSTALADO NO PC
    
-    
+## How add the Sakila database
+![](http://jcvandenberg.eu/images/IMG_0248.jpg)  
+ * Passo 1 <br/>
+   Baixe a base de dado nessa [págna](https://dev.mysql.com/doc/index-other.html)
+   Selecione sakila data base como arquivo zip 
+ * Passo 2 <br/> 
+   Abra o zip baixado e selecione sakila-schema.sql
+ * Passo 3
+   Vai Abrir o mysql Workbench, vá em data base no menu e selecione connect to database.
+   vai abrir uma janela clique em Store in vult e digite sua senha. 
+ * Passo 4
+   vai abrir uma nova janela cole o script do banco nessa  nova janela e clique no raio
+ * Passo 5
+   Depois volte no arquivo zip e clique no arquivo sakila-schema.sql
+   Copie o código e cole na pagna que esta conectada ao SGBD
+   e clique no raio.
+ * ok, o banco de dados com os dados foi iniciado <br/>
