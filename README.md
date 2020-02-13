@@ -52,13 +52,31 @@
    Selecione sakila data base como arquivo zip 
  * Passo 2 <br/> 
    Abra o zip baixado e selecione sakila-schema.sql
- * Passo 3
+ * Passo 3 <br/>
    Vai Abrir o mysql Workbench, vá em data base no menu e selecione connect to database.
    vai abrir uma janela clique em Store in vult e digite sua senha. 
- * Passo 4
+ * Passo 4 <br/>
    vai abrir uma nova janela cole o script do banco nessa  nova janela e clique no raio
- * Passo 5
+ * Passo 5 <br/>
    Depois volte no arquivo zip e clique no arquivo sakila-schema.sql
    Copie o código e cole na pagna que esta conectada ao SGBD
    e clique no raio.
  *  OK BASE DE DADOS INICIALIZADA
+
+## How to make a graph in Power BI
+![](https://www.resumoescolar.com.br/wp-content/imagens/construindo-a-ciencia.jpg)
+  * Passo 1 <br/>
+    Abra o power bi pesquisando no windows ou na tela inicial do windows
+  * Passo 2 <br/>
+    Agora vamos conectar o banco de dados ao power bi, para isso feixe uma 
+    pequena janela que abre no power BI ( não a janela do programa)
+  * Passo 3 <br/>
+    Clique em obter dados no menu superior 
+  * Passo 4 <br/> 
+    pesquise por mysql na tela que abrir e clique no banco de dados mysql
+  * Passo 5 <br/>
+    no local de servidor colocar localhost
+  * Passo 6 <br/>
+    no local de banco de dados colocar Sakila
+  * Passo 7 <br/>
+    selecione as tabelas que vão ser usada no banco de dados  
