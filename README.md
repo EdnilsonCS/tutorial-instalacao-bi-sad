@@ -73,10 +73,21 @@
   * Passo 3 <br/>
     Clique em obter dados no menu superior 
   * Passo 4 <br/> 
-    pesquise por mysql na tela que abrir e clique no banco de dados mysql
+    Pesquise por mysql na tela que abrir e clique no banco de dados mysql
   * Passo 5 <br/>
-    no local de servidor colocar localhost
+    No local de servidor colocar localhost
   * Passo 6 <br/>
-    no local de banco de dados colocar Sakila
+    No local de banco de dados colocar Sakila
   * Passo 7 <br/>
-    selecione as tabelas que vão ser usada no banco de dados  
+    Selecione as tabelas que vão ser usada no banco no gráfico ( nesse tutorial selecionei todas as tabelas )
+  * Passo 8 <br/>
+    Para a listagem de algum dado é só clicar na listagem lateral
+  * Passo 9 <br/>
+    Podemos também construir um gráfico clicando na coluna rental_duration por filme
+  * Passo 10 <br/>
+    Podemos também encontrar o indicador de uma tabela pegando uma coluna com valores relevantes e selecionando.
+  * Passo 11 <br/>
+    Também podes usar mapas para analises
+    
+## Boms Estudos
+## Obrigado por ler!
